@@ -142,7 +142,7 @@ Your communications network operator may charge you for using your mobile data t
 Axis Pay app and/or website via your device. Charges may vary between operators and whether
 you're abroad, it is your duty to be aware of such charges.
 
-Points earned under the Loyalty Program shall, by default, expire 365 days from the date on which they were earned, unless otherwise specified.
+You hereby agree that points earned under the Loyalty Program shall, by default, expire 365 days from the date on which they were earned, unless otherwise specified.
 
 ## 5. Proprietary Rights to the App and Other Intellectual Property
 
